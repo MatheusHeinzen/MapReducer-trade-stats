@@ -1,0 +1,5 @@
+target/
+operacoes_comerciais_inteira.csv
+out/
+tools/hadoop/bin/winutils.exe
+tools/hadoop/bin/hadoop.dll

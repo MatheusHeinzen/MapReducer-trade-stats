@@ -1,0 +1,6 @@
+Country;Year;Commodity code;Commodity;Flow;Price;Weight;Unit;Amount;Category
+Brazil;2016;1;x;Export;100.5;1;kg;10;Live
+Brazil;2016;2;y;Import;50;1;kg;5;Live
+Brazil;2015;3;z;Export;200;1;kg;20;Machinery
+USA;2016;4;a;Export;10;1;kg;15;Live
+Brasil;2017;5;b;Export;80;1;kg;8;Live

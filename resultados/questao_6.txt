@@ -1,0 +1,1 @@
+brazil_2016_price_min_max	5.0	1.85235399101E11
